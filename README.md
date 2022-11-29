@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Computational Physics Projects**
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 I'm currently employed at **Liberty Mutual Insurance as a SWE**
 
