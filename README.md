@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C and C++**
 
-- 📫 How to reach me **speters1@highpoint.edu**
+- 📫 How to reach me **spencer09@me.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/spencerpeters/](https://www.linkedin.com/in/spencerpeters/)
 
